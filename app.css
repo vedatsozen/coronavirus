@@ -124,5 +124,16 @@ a.vakaharitasi {
     background-color:transparent;
     color:whitesmoke;
     padding:5px 15px;
+    border:1px solid whitesmoke;
     border-radius:5px;
+}
+
+a.vakaharitasi:hover {
+    background-color:whitesmoke:
+    color:black;
+    transition:300ms ease;
+}
+
+a.vakaharitasi:active {
+    transform:scale(0.9);
 }
