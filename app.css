@@ -119,8 +119,6 @@ a.vakaharitasi {
     position: absolute;
     top:-10%;
     right:-7%;
-    height:13%;
-    width:25%;
     background-color:transparent;
     color:whitesmoke;
     padding:5px 10px;
@@ -131,6 +129,8 @@ a.vakaharitasi {
     align-items:center;
     text-decoration:none;
     display:block;
+    height:50px;
+    width:fit-content;
     
 }
 
