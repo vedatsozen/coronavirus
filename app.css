@@ -123,9 +123,15 @@ a.vakaharitasi {
     width:25%;
     background-color:transparent;
     color:whitesmoke;
-    padding:5px 15px;
+    padding:5px 10px;
     border:1px solid whitesmoke;
-    border-radius:5px;
+    border-radius:10px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    text-decoration:none;
+    display:block;
+    
 }
 
 a.vakaharitasi:hover {
