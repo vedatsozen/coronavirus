@@ -1,0 +1,123 @@
+
+@font-face {
+
+    font-family:'Gotham';
+    src: url("fonts/GothamXNarrow.otf");
+
+    font-family:'Seg1';
+    src: url("fonts/segoeui.ttf");
+
+    font-family:"SegBold";
+    src: url("fonts/segoeuib.ttf");
+
+    font-family:"SegItalic";
+    src: url("fonts/segoeuii.ttf");
+
+    font-family:"Seg4";
+    src: url("fonts/segoeuil.ttf");
+
+    font-family:"Seg5";
+    src: url("fonts/segoeuisl.ttf");
+
+    font-family:"Seg6";
+    src: url("fonts/segoeuiz.ttf");
+
+    font-family:"Seg7";
+    src: url("fonts/seguibl.ttf");
+
+    font-family:"Seg8";
+    src: url("fonts/seguibli.ttf");
+
+    font-family:"Seg9";
+    src: url("fonts/seguili.ttf");
+
+    font-family:"Seg10";
+    src: url("fonts/seguisb.ttf");
+
+    font-family:"Seg11";
+    src: url("fonts/seguisli.ttf");
+
+    font-family:"GothamXNarrow";
+    src: url("fonts/GothamXNarrow-Bold.otf");
+
+    font-family:"GothamXNarrowMedium";
+    src: url("fonts/GothamXNarrow-Medium.otf");
+
+
+}
+
+body {background-color: #1b191b;}
+.theme-color {background-color: #FC7F11;}
+
+h1,h2,h3,h4,h5,h6 {font-weight: normal;}
+.map {background-image: url(images/map.png); background-position: center; background-repeat: no-repeat; background-size: 670px; background-attachment: fixed;}
+.map .box{background-color: rgba(112,112,112,0.7); border-radius: 30px;}
+.link {border: solid 2px #707070; border-radius: 35px; padding: 19px 22px; color: #FFFFFF; font-weight: 600; font-size: 20px;}
+.link:hover {border: solid 2px #707070; border-radius: 35px; padding: 19px 22px; color: #FFFFFF; font-weight: 600; text-decoration: none; font-size: 20px}
+
+.virusrelative {
+    position: relative;
+}
+
+h1.virus {
+    position: absolute;
+    top:50%;
+    left:40%;
+    transform: translate(-50%,-50%);
+    font-size:100px;
+    letter-spacing: 5px;
+    font-weight: bold;
+    z-index: -1;
+    font-family:"Gotham", sans-serif;
+}
+
+.olaylar {
+    gap:320px;
+}
+
+.korunmaimg {
+    margin-top:320px;
+    
+
+  
+}
+
+h1.title {
+    font-family:"GothamXNarrowMedium";
+}
+
+
+h1 {
+    font-family:"SegBold", sans-serif;
+
+}
+
+h3 {
+    font-family:"SegBold", sans-serif;
+
+}
+
+h4 {
+    font-family:"Seg1", sans-serif ;
+ 
+}
+
+h5 {
+    font-family:"Seg1", sans-serif ;
+    font-size:25px;
+}
+
+img.coronavirus {
+    height:160px;
+    width:800px;
+   
+}
+
+img.vakaharitasi {
+    margin: auto;
+    position: absolute;
+    top:-10%;
+    right:-7%;
+    height:13%;
+    width:25%;
+}
