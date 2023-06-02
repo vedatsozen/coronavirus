@@ -134,7 +134,7 @@ a.vakaharitasi {
 }
 
 a.vakaharitasi:hover {
-    background-color:whitesmoke:
+    background-color:whitesmoke;
     color:black;
     transition:300ms ease;
 }
