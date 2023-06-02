@@ -119,7 +119,7 @@ a.vakaharitasi {
     position: absolute;
     top:-10%;
     right:-7%;
-    background-color:transparent;
+    background:transparent;
     color:whitesmoke;
     padding:5px 10px;
     border:1px solid whitesmoke;
