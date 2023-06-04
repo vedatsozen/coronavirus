@@ -82,8 +82,14 @@ h1.virus {
   
 }
 
+h1.title {
+    font-family:GothamXNarrowMedium, sans-serif ;
+    font-size:55px;
+}
+
 h1 {
     font-family:GothamXNarrowMedium, sans-serif ;
+    font-size:70px;
 
 }
 
