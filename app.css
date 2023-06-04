@@ -1,7 +1,7 @@
 
 @font-face {
 
-    font-family:'Gotham';
+    font-family:'GothamXNarrow';
     src: url("fonts/GothamXNarrow.otf");
 
     font-family:'Seg1';
@@ -37,7 +37,7 @@
     font-family:"Seg11";
     src: url("fonts/seguisli.ttf");
 
-    font-family:"GothamXNarrow";
+    font-family:"GothamXNarrowBold";
     src: url("fonts/GothamXNarrow-Bold.otf");
 
     font-family:"GothamXNarrowMedium";
@@ -49,7 +49,7 @@
 body {background-color: #1b191b;}
 .theme-color {background-color: #FC7F11;}
 
-h1,h2,h3,h4,h5,h6 {font-weight: normal;}
+h1,h2,h3,h4,h5,h6 {font-weight:normal;}
 .map {background-image: url(images/map.png); background-position: center; background-repeat: no-repeat; background-size: 670px; background-attachment: fixed;}
 .map .box{background-color: rgba(112,112,112,0.7); border-radius: 30px;}
 .link {border: solid 2px #707070; border-radius: 35px; padding: 19px 22px; color: #FFFFFF; font-weight: 600; font-size: 20px;}
@@ -82,12 +82,12 @@ h1.virus {
   
 }
 
-h1.title {
-    font-family:"GothamXNarrowMedium";
+h1 {
+    font-family:GothamXNarrowMedium, sans-serif ;
+
 }
 
-
-h1 {
+h2 {
     font-family:"SegBold", sans-serif;
 
 }
@@ -98,14 +98,20 @@ h3 {
 }
 
 h4 {
-    font-family:"Seg1", sans-serif ;
-    font-size:15px;
+
+    font-family:"Seg4", sans-serif !important;
+    font-size:18px;
+    text-align:center;
+    width: 100%;
+    margin: auto;
+  
  
 }
 
 h5 {
     font-family:"Seg1", sans-serif ;
-    font-size:25px;
+    font-size:15px;
+    text-align:justify;
 }
 
 img.coronavirus {
@@ -115,30 +121,39 @@ img.coronavirus {
 }
 
 a.vakaharitasi {
+
     margin: auto;
     position: absolute;
     top:-10%;
     right:-7%;
-    background:transparent;
-    color:whitesmoke;
-    padding:5px 10px;
+    height:13%;
+    width:25%;
+    padding:5px 15px;
     border:1px solid whitesmoke;
     border-radius:10px;
-    display:flex;
-    justify-content:center;
-    align-items:center;
-    text-decoration:none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     height:50px;
-    width:fit-content;
-    
+    width: fit-content;
+    background:transparent;
+    color: whitesmoke;
+    text-decoration:none;
+   
+
 }
 
 a.vakaharitasi:hover {
     background-color:whitesmoke;
-    color:black;
+    color: black;
     transition:300ms ease;
 }
 
 a.vakaharitasi:active {
-    transform:scale(0.9);
+    transform: scale(0.9);
+}
+
+b {
+    
+    font-weight: bolder !important;
 }
