@@ -4,6 +4,12 @@
     font-family:'GothamXNarrow';
     src: url("fonts/GothamXNarrow.otf");
 
+    font-family:"GothamXNarrowBold";
+    src: url("fonts/GothamXNarrow-Bold.otf");
+
+    font-family:"GothamXNarrowMedium";
+    src: url("fonts/GothamXNarrow-Medium.otf");
+
     font-family:'Seg1';
     src: url("fonts/segoeui.ttf");
 
@@ -37,11 +43,7 @@
     font-family:"Seg11";
     src: url("fonts/seguisli.ttf");
 
-    font-family:"GothamXNarrowBold";
-    src: url("fonts/GothamXNarrow-Bold.otf");
-
-    font-family:"GothamXNarrowMedium";
-    src: url("fonts/GothamXNarrow-Medium.otf");
+    
 
 
 }
@@ -83,8 +85,9 @@ h1.virus {
 }
 
 h1.title {
-    font-family:GothamXNarrowMedium, sans-serif ;
+    font-family:GothamXNarrow, sans-serif ;
     font-size:55px;
+   
 }
 
 h1 {
@@ -121,8 +124,9 @@ h5 {
 }
 
 img.coronavirus {
-    height:160px;
-    width:800px;
+    height:196px;
+    width:1100px;
+    margin: auto;
    
 }
 
@@ -197,4 +201,14 @@ a.link:hover {
 
 a.link:active {
     transform: scale(0.9);
+}
+
+.col-md-8 > h4 {
+    font-size: 30px;
+    font-family:"SegBold", sans-serif;
+}
+
+.col-md-8 > h5 {
+    font-size:15px;
+    font-family:"Seg7", sans-serif;
 }
