@@ -82,6 +82,12 @@ h1.virus {
     
 }
 
+
+img.korunmayeni {
+    height:125px;
+    width:130px;
+}
+
 .korunmaimg {
     margin-top:50px;
     
@@ -226,4 +232,60 @@ a.link:active {
 .col-md-8 > h5 {
     font-size:15px;
     font-family:"Seg7", sans-serif;
+}
+
+.tamamdirdiv {
+   
+    position:relative
+}
+
+.tamamdirdiv > p.sars {
+    position: absolute;
+    top:22%;
+    left:7%;
+    display: block;
+    height:80px;
+    width:200px;
+    background-color:#1B191B;
+    color: white;
+    font-size:14px;
+    letter-spacing:2px;
+    font-weight: bold;
+    
+}
+
+
+.tamamdirdiv > p.covid {
+    position: absolute;
+    top:2%;
+    left:38%;
+    display: block;
+    height:80px;
+    width:200px;
+    background-color:#1B191B;
+    color: white;
+    font-size:14px;
+    letter-spacing:2px;
+    font-weight: bold;
+    
+}
+
+
+.tamamdirdiv > p.mers {
+    position: absolute;
+    top:28%;
+    left:68%;
+    display: block;
+    height:80px;
+    width:200px;
+    background-color:#1B191B;
+    color: white;
+    font-size:14px;
+    letter-spacing:2px;
+    font-weight: bold;
+    
+}
+
+span.sars {
+    color:#CA5F2D;
 }
