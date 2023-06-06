@@ -289,3 +289,8 @@ a.link:active {
 span.sars {
     color:#CA5F2D;
 }
+
+img.asi {
+    transform: scale(0.5);
+   
+}
