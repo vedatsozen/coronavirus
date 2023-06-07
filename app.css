@@ -89,7 +89,7 @@ img.korunmayeni {
 }
 
 .korunmaimg {
-    margin-top:50px;
+    margin-top:200px;
     
 }
 
@@ -288,4 +288,8 @@ a.link:active {
 
 span.sars {
     color:#CA5F2D;
+}
+
+.box {
+    margin-top:250px;
 }
