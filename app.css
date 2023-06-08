@@ -241,8 +241,8 @@ a.link:active {
 
 .tamamdirdiv > p.sars {
     position: absolute;
-    top:22%;
-    left:7%;
+    top:20%;
+    left:5%;
     display: block;
     height:80px;
     width:200px;
@@ -257,8 +257,8 @@ a.link:active {
 
 .tamamdirdiv > p.covid {
     position: absolute;
-    top:2%;
-    left:38%;
+    top:-10%;
+    left:40%;
     display: block;
     height:80px;
     width:200px;
@@ -273,8 +273,8 @@ a.link:active {
 
 .tamamdirdiv > p.mers {
     position: absolute;
-    top:28%;
-    left:68%;
+    top:24%;
+    left:75%;
     display: block;
     height:80px;
     width:200px;
