@@ -301,7 +301,8 @@ img.anatomi {
 
 img.klinikdenemeler {
     margin: auto;
-    filter:brightness(1.2);
+    width:100%;
+   
 }
 
 p.yazi1 {
