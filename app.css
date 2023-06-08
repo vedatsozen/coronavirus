@@ -303,3 +303,39 @@ img.klinikdenemeler {
     margin: auto;
     filter:brightness(1.2);
 }
+
+p.yazi1 {
+    position:absolute;
+    top:30px;
+    left:1%;
+    font-weight: bold;
+    width:150px;
+    text-align: left;
+}
+
+p.yazi2 {
+    position:absolute;
+    top:50px;
+    left:20%;
+    font-weight: bold;
+    width:300px;
+    text-align: left;
+}
+
+p.yazi3 {
+    position:absolute;
+    top:85px;
+    left:50%;
+    font-weight: bold;
+    width:300px;
+    text-align: left;
+}
+
+p.yazi4 {
+    position:absolute;
+    top:125px;
+    left:85%;
+    font-weight: bold;
+    width:250px;
+    text-align: left;
+}
