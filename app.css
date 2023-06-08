@@ -294,6 +294,12 @@ span.sars {
     margin-top:250px;
 }
 
+img.anatomi {
+    margin: auto;
+    filter:brightness(1.2);
+}
+
 img.klinikdenemeler {
+    margin: auto;
     filter:brightness(1.2);
 }
