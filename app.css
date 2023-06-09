@@ -385,6 +385,21 @@ div.umut {
  
     }
 
+   .ellipse3 {
+       height:20px !important;
+        width:20px !important;
+    }
+
+    .ellipse5 {
+        height:20px !important;
+         width:20px !important;
+     }
+
+     .ellipse165 {
+        height:20px !important;
+         width:20px !important;
+     }
+
     .flex {
         display: flex;
         justify-content: center;
