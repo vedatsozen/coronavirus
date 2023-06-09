@@ -48,7 +48,7 @@
 
 }
 
-body {background-color: #1b191b;}
+body {background-color: #1b191b; }
 .theme-color {background-color: #FC7F11;}
 
 h1,h2,h3,h4,h5,h6 {font-weight:normal;}
@@ -159,7 +159,7 @@ a.vakaharitasi {
     margin: auto;
     position: absolute;
     top:-10%;
-    right:-9%;
+    right:-25% !important;
     height:13%;
     width:25%;
     padding:5px 15px;
