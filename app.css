@@ -522,6 +522,7 @@ div.umut {
     .korunmaimg {
         margin-top:200px;
         padding:20px;
+        transform: scale(0.5) !important;
         
     }
 
