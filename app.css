@@ -48,7 +48,11 @@
 
 }
 
-body {background-color: #1b191b; }
+body {
+    
+background-color: #1b191b;
+
+}
 .theme-color {background-color: #FC7F11;}
 
 h1,h2,h3,h4,h5,h6 {font-weight:normal;}
@@ -157,19 +161,17 @@ img.coronavirus {
 a.vakaharitasi {
 
     margin: auto;
-    position: absolute;
-    top:-10%;
-    right:-25% !important;
-    height:13%;
-    width:25%;
+    position: absolute ;
+    top:920px;
+    right:10px;
+    height:50px;
+    width:fit-content;
     padding:5px 15px;
     border:1px solid whitesmoke;
     border-radius:50px;
     display: flex;
     justify-content: center;
     align-items: center;
-    height:50px;
-    width: fit-content;
     background:transparent;
     color: whitesmoke;
     text-decoration:none;
