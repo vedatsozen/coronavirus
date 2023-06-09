@@ -161,7 +161,7 @@ img.coronavirus {
 a.vakaharitasi {
 
     margin: auto;
-    position: absolute ;
+    position: fixed ;
     top:3.2%;
     right:1%;
     height:50px;
