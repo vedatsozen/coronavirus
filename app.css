@@ -366,6 +366,7 @@ div.asilar {
 
 div.yenitip {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items:center;
 }
@@ -373,6 +374,8 @@ div.yenitip {
 div.umut {
     text-align: left;
 }
+
+
 
 }
 
@@ -911,5 +914,22 @@ div.umut {
         text-align: left;
     }
 
+    div.korunmayollari {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+div.asidivi {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h3.virusvektoru {
+    text-align: center !important;
+}
  
 }
