@@ -941,13 +941,15 @@ h2.virusvektoru {
 
 img.korunma {
     height:200px !important;
-    width:200px !important;
+    width:250px !important;
 }
 
 img.korunmayeni {
-    height:200px !important;
+    height:160px !important;
     width:200px !important;
+  
 }
+
 
 img.social {
     height:50px !important;
