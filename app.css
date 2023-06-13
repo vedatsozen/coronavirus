@@ -376,6 +376,10 @@ div.umut {
 }
 
 
+h3.virusvektoru {
+    text-align:left !important;
+}
+
 
 }
 
@@ -930,6 +934,17 @@ div.asidivi {
 
 h3.virusvektoru {
     text-align: center !important;
+}
+
+
+img.korunma {
+    height:200px !important;
+    width:200px !important;
+}
+
+img.korunmayeni {
+    height:200px !important;
+    width:200px !important;
 }
  
 }
