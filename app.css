@@ -689,7 +689,7 @@ h3.virusvektoru {
     }
 
     img.tamamdir {
-        width:80vw !important;
+        width:95vw !important;
     }
 
     img.kayit4 {
@@ -945,6 +945,11 @@ img.korunma {
 img.korunmayeni {
     height:200px !important;
     width:200px !important;
+}
+
+img.social {
+    height:50px !important;
+    width:50px !important;
 }
  
 }
