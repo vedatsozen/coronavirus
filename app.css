@@ -132,7 +132,12 @@ h3.yedinci {
 h3 {
     font-family:"SegBold", sans-serif;
     font-size:25px;
+ 
+}
 
+h3.virusvektoru {
+    margin: auto;
+    text-align: left !important;
 }
 
 h4 {
@@ -583,6 +588,10 @@ div.umut {
         text-align: center;
         width:100vw !important;
       
+    }
+
+    h3.virusvektoruasilar {
+        text-align: left;
     }
     
     h4 {
