@@ -932,8 +932,10 @@ div.asidivi {
     align-items: center;
 }
 
-h3.virusvektoru {
+h2.virusvektoru {
     text-align: center !important;
+    font-size:25px;
+    letter-spacing:3px;
 }
 
 
